@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Niklas-Kim Laerum
     - name: Date of Birth
-      value: 14th March 1879
+      value: 10th December 1999
     - name: Languages
       value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master
+      institution: University of Applied Sciences, Emden/Leer, Germany
+      year: 2024
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor
+      institution: University of Applied Sciences, Emden/Leer, Germany
+      year: 2022
       description:
         - Description 1.
         - Description 2.
