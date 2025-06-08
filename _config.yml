@@ -195,6 +195,13 @@ exclude:
   - _pages/projects.md
   - _pages/profiles.md
   - _pages/repositories.md
+  - _pages/books.md
+  - _projects
+  - _books
+  - _includes/repository
+  - _data/repositories.yml
+  - _data/coauthors.yml
+  - _data/cv.yml
 keep_files:
   - CNAME
   - .nojekyll
