@@ -33,6 +33,9 @@ ninja.data = [{
         },{id: "news-i-started-my-phd-project-mortar-board",
           title: 'I started my PhD project. :mortar_board:',
           description: "",
+          section: "News",},{id: "news-my-first-paper-has-been-published",
+          title: 'My first paper has been published.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
