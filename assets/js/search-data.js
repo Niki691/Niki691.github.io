@@ -36,6 +36,12 @@ ninja.data = [{
           section: "News",},{id: "news-my-first-paper-has-been-published",
           title: 'My first paper has been published.',
           description: "",
+          section: "News",},{id: "news-my-paper-for-the-ecis-2026-has-been-accepted",
+          title: 'My Paper for the ECIS 2026 has been accepted.',
+          description: "",
+          section: "News",},{id: "news-the-ecis-2026-paper-can-now-be-accessed-online",
+          title: 'The ECIS 2026 Paper can now be accessed online.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
